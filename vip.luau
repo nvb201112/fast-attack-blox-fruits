@@ -1,2 +1,5 @@
-loadstring(game:HttpGet("https://xhider.xyz/raw/Zylos/Fastattack1.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/refs/heads/main/attack-module.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nvb201112/fast-attack-blox-fruits/refs/heads/main/AttackRemote.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nvb201112/fast-attack-blox-fruits/refs/heads/main/attack2.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nvb201112/fast-attack-blox-fruits/refs/heads/main/attack3.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nvb201112/fast-attack-blox-fruits/refs/heads/main/attack4.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nvb201112/fast-attack-blox-fruits/refs/heads/main/attack5.luau"))()
